@@ -1,6 +1,7 @@
 # Test Page Heading
+{:.no_toc}
 
-1. Kramdown will put table of contents here
+* Kramdown will put table of contents here as unordered list
 {:toc}
 
 ## Section one
