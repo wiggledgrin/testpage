@@ -12,5 +12,7 @@ This is a test GitHub pages to see if there's a way to generate a TOC
 
 There is another page [here](/HELP.md)
 
+A section on that page is [here](/Help.md#help-two)
+
 ## Section three
 
