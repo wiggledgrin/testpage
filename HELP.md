@@ -1,4 +1,5 @@
 # Help
+{:.no_toc}
 
 1. Kramdown will replace this with table of contents
 {:toc}
