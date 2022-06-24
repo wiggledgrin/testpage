@@ -1,4 +1,7 @@
 remote_theme: just-the-docs/just-the-docs
-
 color_scheme: dark
+#remote_theme: pages-themes/minimal@v0.2.0
 
+title: TestPage
+description: Learning how github pages work
+repository: wiggledgrin/testpage
