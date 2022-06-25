@@ -1,8 +1,10 @@
-# Test Page Heading
-{:.no_toc}
+---
+layout: default
+nav_order: 1
+permalink: /index.html
+---
 
-* Kramdown will put table of contents here as unordered list
-{:toc}
+# Test Page Heading
 
 ## Section one
 

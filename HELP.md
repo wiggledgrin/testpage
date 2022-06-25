@@ -1,12 +1,14 @@
+---
+layout: default
+title: Help
+nav_order: 2
+has_children: true
+---
 # Help
-{:.no_toc}
-
-1. Kramdown will replace this with table of contents
-{:toc}
 
 ## Help one
 
-This is also a test of the TOC generator
+Some things about help here, but there's more [here](/HELP-child.md#section-two)
 
 ## Help two
 
