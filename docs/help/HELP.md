@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Help
+permalink: /HELP.html
+
 nav_order: 2
 has_children: true
 ---
