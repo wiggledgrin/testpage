@@ -9,24 +9,24 @@ repository: wiggledgrin/testpage
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml.
-    fontawesome_icon_name                 : magic
+  - title                                 : Automatic Room Correction
+    link                                  : docs/help/additional.html
+    description                           : Generate parametric equalizer settings and export to supported hardware.
 
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Subwoofer Phase
+    description                           : Set subwoofer phase with confidence using magnitude and/or phase based tuning approaches.
+    link                                  : docs/help/additional.html
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Crossover selection
+    description                           : Avoid the guesswork.  Measure how individual elements perform an choose the right crossover point.
+    link                                  : docs/help/additional.html
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically
-    fontawesome_icon_name                 : sync
+  - title                                 : Sine Sweep Measurements
+    description                           : HouseCurve automatically checks measurements and discards when quality is too low.
+    link                                  : docs/help/additional.html
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via
-    fontawesome_icon_name                 : adjust
+  - title                                 : Documentation
+    description                           : HouseCurve comes with extensive documentation on measuring audio systems and step-by-step tuning advice.
+    link                                  : docs/help/additional.html
 
 
