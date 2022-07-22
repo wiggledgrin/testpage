@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: landing
 nav_order: 1
 permalink: /index.html
 ---
