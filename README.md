@@ -8,7 +8,12 @@ permalink: /index.html
 
 ## Section one
 
-This is a test GitHub pages to see if there's a way to generate a TOC
+Check out this list of buttons:
+
+[Foo](docs/help/Help.md){: .btn }
+[Bar](docs/help/Help.md){: .btn }
+[Baz](docs/help/Help.md){: .btn }
+[Qux](docs/help/Help.md){: .btn }
 
 ## Section two
 

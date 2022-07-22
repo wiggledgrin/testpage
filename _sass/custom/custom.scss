@@ -14,3 +14,51 @@
 }
 
 
+// Feature List
+.features {
+  grid-area: c;
+  display: flex;
+  flex: 0 1 auto;
+  align-content: flex-start;
+  justify-content: flex-start;
+  flex-grow: 1;
+  flex-wrap: wrap;
+}
+
+.feature {
+  display: flex;
+  //padding-left: 15px;
+  padding-right: 20px;
+  width: 100%;
+
+  @include mq(md) {
+    width: calc(100%/2);
+  }
+
+  @include mq(lg) {
+    width: calc(100%/3);
+  }
+}
+
+.iconBack {
+  color: $body-text-color;
+}
+
+.iconTop {
+  color: $body-text-color;
+}
+
+.featureText {
+  //margin-left: 18px;
+}
+
+.featureText > h3 {
+  color: $body-text-color;
+}
+
+.featureText > p {
+  color: $body-text-color;
+  margin-top: 8px;
+  line-height: 1.5;
+}
+
